@@ -2,6 +2,7 @@
 - 👀 I am currently transitioning into a new career in tech
 - 🌱 I’m currently learning about the Python language but would be open to learning more languages as I go along 
 - 💞️ I’m looking to collaborate with great tech enthusiasts, as I am always ready to learn and grasp new skills
+- Interested and soon will begin journey in learning British Sign Language (BSL)
 - 📫 How to reach me: https://www.linkedin.com/in/shaquira-dorsett-2b476b222/ 
 
 <!---
