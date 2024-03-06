@@ -9,7 +9,7 @@
 ### ***My Aspirations***
 - 🌱 I’m currently learning about the Python language but would be open to learning more languages as I go along to deepen my knowledge and tech stack.
 - 💞️ It would be great to collaborate with other tech enthusiasts, as I am always ready to learn and grasp new skills.
-- 
+  
 ### **Outside of the tech space**
 💎 In addition to tech, I have a keen interest and soon will begin a journey in learning British Sign Language (BSL). 
     This has been a passion of mine for some time, as I believe it is important to broaden my ability to supporting others.
